@@ -185,3 +185,5 @@ butler
 best features--
 either -- negative form of "me too"
 
+secluded -- isolated in a positive way
+leaves -- foglie

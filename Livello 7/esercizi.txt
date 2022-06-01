@@ -67,3 +67,17 @@ ES:
 3) francescana, or traditional restaurant like la bianca
 4) do in 
 5) paraglading
+
+1 enough
+2 any
+3 any
+4 enough
+5 some
+6 some - any
+
+1 a lots of
+2 too many
+3 too much
+4 too
+5 too many
+
