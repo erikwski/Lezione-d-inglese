@@ -14,14 +14,14 @@ malinconic
 over the moon
 
 nervous-- impaurito, anxiety
-upset--very sad, visible sad
+upset--very sad, visible sad, with a little angry
 low-- sad
 mad--angry
 on edge--al limite
 exhausted--very tired
 down in the dumps-- sad, sotto ad una discarica
-frustrated
-thrilled-- very happy
+frustrated -- irritato
+thrilled-- very happy/excited
 annoyed-- infastidito
 on top od the world-- happy
 have butterflies in my stomach-- nervous in good or bad way
@@ -41,6 +41,8 @@ sheepish-- molto imbarazzato
 curious-- curioso
 knackered-- preso a pugni emozionalmente
 gelous-- geloso
+nervous -- ansioso, non nervoso
+with the head in the clouds-- not focus, daydreaming
 
 you can use color
 red-- mad
@@ -187,3 +189,4 @@ either -- negative form of "me too"
 
 secluded -- isolated in a positive way
 leaves -- foglie
+
