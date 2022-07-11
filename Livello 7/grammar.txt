@@ -103,3 +103,12 @@ PRASHAL VERBS
   get angry with -- arrabbiarsi con
   get over -- superare qualcuno(relazionalmente parlando)
   get in trouble -- mettersi nei guai
+  
+MODAL VERBS FOR SPECULATION
+  - must --> very sure
+  - might/may --> not veru sure (50%)
+  - can't --> impossible
+  must used for certain speculation, have to for obbligation
+  have to for spoken, must a bit stronger used for rules
+  mustn't --> still obligation and penalty if done
+  not have to --> no obbligation, no penalty
